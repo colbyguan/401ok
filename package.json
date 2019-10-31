@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint-utils": "^1.4.1",
     "gh-pages": "^2.0.1",
+    "handlebars": "^4.0.14",
+    "lodash": "^4.17.13",
+    "lodash.template": "^4.5.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
