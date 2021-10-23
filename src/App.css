@@ -27,3 +27,12 @@ html, body {
 .numbers p {
   font-weight: 700;
 }
+.example-btn-container {
+  height: 2rem;
+}
+.example-btn {
+  float: right;
+}
+.input-field {
+  margin-bottom: 1.5rem;
+}
